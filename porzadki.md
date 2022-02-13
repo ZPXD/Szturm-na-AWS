@@ -12,6 +12,11 @@ Nie róbcie tego raczej sami, będziemy to ustawiać w poniedziałek o 19:00 14s
 
 ### Porządek u siebie na kompie: folder xD na kompie i folder xD w przeglądarce
 
+#### PORZĄDKI U SIEBIE: Jak się włacza terminal/powershell?
+Windows: kliknij ścieżkę w folderze xD
+Linux: shift+ctrl+x
+Mac: ?
+
 #### PORZĄDEK U SIEBIE: folder xD w przeglądarce.
 1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
 2. Wyciągnij ten folder gdzieś na wierzch
@@ -335,7 +340,7 @@ Na początek starczy. Ale w przyszłości będziemy robić jeszcze trochę rzecz
 Np. chcemy opublikować zadanie domowe jako repo. 
 Albo oddać je na głowną stronę zajęć.
 
-##### Praca z w
+##### Git - Praca własnia
 
 Np. zadania domowe. Jak zrobisz zadanie domowe, to jak je dodasz?
 
@@ -358,7 +363,7 @@ Np. zadania domowe. Jak zrobisz zadanie domowe, to jak je dodasz?
 17. Add, commit, sync :) i zobacz na przeglądarce.
 
 
-##### Pull Requests.
+##### Git - Pull Requests - prace domowe,
 
 1. Zróbmy test. Pobierz w swoim folderze domowym repo zajecia_programowania_xd
 
