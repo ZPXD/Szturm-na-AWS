@@ -5,19 +5,18 @@
 
 Planujemy tak aby działało na Ubuntu AWS/Home/Innych serverach z ~gołym Ubuntu też. Sprawdzamy.
 
-- Porządek u siebie na kompie: folder xD na kompie i folder xD w przeglądarce
-- 
-    
+Nie róbcie tego raczej sami, będziemy to ustawiać w poniedziałek o 19:00 14stego :)
 
 
+
+
+### Porządek u siebie na kompie: folder xD na kompie i folder xD w przeglądarce
 
 #### PORZĄDEK U SIEBIE: folder xD w przeglądarce.
 1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
 2. Wyciągnij ten folder gdzieś na wierzch
 3. Dodaj do niego potrzebne linki: github swój, ZPXD, może gmail.
 4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
-
-
 
 #### PORZĄDEK U SIEBIE: foler xD na kompie
 1. Katalog xD tworzymy kto nie zrobił. Na wierzchu gdzieś.  I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
@@ -31,6 +30,8 @@ Linux: shift+ctrl+x
 pwd
 ```
 Powinieneś być w folderze xD. Chodźmy dalej.
+
+### Porządek na serwie:
 
 #### AWS:
 
