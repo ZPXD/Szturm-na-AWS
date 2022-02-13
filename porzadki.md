@@ -1,26 +1,40 @@
 
-- UŻYTKOWNICY -
-
-
-Planujemy tak aby:
-- działało na Ubuntu AWS/Home/Innych serverach z ~gołym Ubuntu też
-    
-
-
+# PORZĄDKI
 
 ## PLAN:
-    
-#### PORZĄDEK U SIEBIE: Katalog xD
-1. Katalog xD tworzymy kto nie zrobił. Na wierzchu gdzieś.
-2. Powershell/terminal (ALT+S+F+R bedac w katalogu)
-3. cd cd cd cd cd mkdir cd ls
-4. pwd
-    
-#### PORZĄDEK NA SERWERZE:
 
-Wchodzimy na serwer przez powershell/windows wpisując.
+Planujemy tak aby działało na Ubuntu AWS/Home/Innych serverach z ~gołym Ubuntu też. Sprawdzamy.
+
+- Porządek u siebie na kompie: folder xD na kompie i folder xD w przeglądarce
+- 
+    
+
+
+
+#### PORZĄDEK U SIEBIE: folder xD w przeglądarce.
+1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
+2. Wyciągnij ten folder gdzieś na wierzch
+3. Dodaj do niego potrzebne linki: github swój, ZPXD, może gmail.
+4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
+
+
+
+#### PORZĄDEK U SIEBIE: foler xD na kompie
+1. Katalog xD tworzymy kto nie zrobił. Na wierzchu gdzieś.  I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
+2. Wejdź do folderu xD
+3. Powershell/terminal:
+Windows: kliknij ścieżkę w folderze xD
+Linux: shift+ctrl+x
+
+6. pwd
+```
+pwd
+```
+Powinieneś być w folderze xD. Chodźmy dalej.
 
 #### AWS:
+
+Wchodzimy na serwer przez powershell/windows wpisując.
 
 ```
 ssh -i nazwaklucza.pem ubuntu@1.1.1.1 
