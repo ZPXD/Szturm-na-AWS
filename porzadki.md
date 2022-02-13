@@ -7,10 +7,7 @@ Planujemy tak aby działało na Ubuntu AWS/Home/Innych serverach z ~gołym Ubunt
 
 Nie róbcie tego raczej sami, będziemy to ustawiać w poniedziałek o 19:00 14stego :)
 
-
-
-
-### Porządek u siebie na kompie: folder xD na kompie i folder xD w przeglądarce
+### Porządek u siebie na kompie:
 
 #### PORZĄDKI U SIEBIE: Jak się włacza terminal/powershell?
 Windows: kliknij ścieżkę w folderze xD
