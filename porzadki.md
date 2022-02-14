@@ -54,8 +54,9 @@ ssh root@1.1.1.1
 
 1. Ustawiamy użytkownika o nazwie takiej jak chcesz np. luke:
 ```
-adduser $USER
-adduser --ingroup GROUP www-data--disabled-password $USER
+adduser NAZWA_UZYTKOWNIKA_TWOJA
+adduser --ingroup GROUP www-data --disabled-password NAZWA_UZYTKOWNIKA_TWOJA
+su NAZWA_UZYTKOWNIKA_TWOJA
 ```
 
 2. Sprawdź czy jesteś w grupie www-data
