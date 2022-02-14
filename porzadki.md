@@ -72,7 +72,7 @@ Stwórz klucz:
 ```
 cd /home/$USER # czy sie da, jak nie nowy katalog
 mkdir /home/$USER/.ssh
-chmod 700 .shh
+chmod 700 .ssh
 cd  /home/$USER/.ssh
 ssh-keygen -f /home/$USER/.ssh/xd_$USER -C $USER -N ''
 chmod 700 xd_$USER
