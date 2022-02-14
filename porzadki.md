@@ -76,7 +76,7 @@ chmod 700 .ssh
 cd  /home/$USER/.ssh
 ssh-keygen -f /home/$USER/.ssh/xd_NAZWA_UZYTKOWNIKA_TWOJA -C $USER -N ''
 cat ~/.ssh/xd_NAZWA_UZYTKOWNIKA_TWOJA.pub > authorized_keys
-chmod 700 xd_NAZWA_UZYTKOWNIKA_TWOJA
+chmod 700 xd_xd_NAZWA_UZYTKOWNIKA_TWOJA.pub
 ```
 
 Sprawdź, czy klucz został stworzony. 
