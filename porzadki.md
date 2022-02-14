@@ -55,7 +55,7 @@ ssh root@1.1.1.1
 1. Ustawiamy użytkownika o nazwie takiej jak chcesz np. luke:
 ```
 adduser NAZWA_UZYTKOWNIKA_TWOJA
-adduser --ingroup www-data sudo --disabled-password NAZWA_UZYTKOWNIKA_TWOJA
+adduser --ingroup www-data --disabled-password NAZWA_UZYTKOWNIKA_TWOJA
 adduser NAZWA_UZYTKOWNIKA_TWOJA sudo
 su NAZWA_UZYTKOWNIKA_TWOJA
 ```
