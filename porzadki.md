@@ -56,7 +56,7 @@ ssh root@1.1.1.1
 ```
 adduser NAZWA_UZYTKOWNIKA_TWOJA
 adduser --ingroup GROUP www-data --disabled-password NAZWA_UZYTKOWNIKA_TWOJA
-usermode -aG sudo NAZWA_UZYTKOWNIKA_TWOJA
+usermod -aG sudo NAZWA_UZYTKOWNIKA_TWOJA
 su NAZWA_UZYTKOWNIKA_TWOJA
 ```
 
