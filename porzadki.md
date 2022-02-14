@@ -74,8 +74,8 @@ cd /home/$USER # czy sie da, jak nie nowy katalog
 mkdir /home/$USER/.ssh
 chmod 700 .ssh
 cd  /home/$USER/.ssh
-ssh-keygen -f /home/$USER/.ssh/xd_$USER -C $USER -N ''
-chmod 700 xd_$USER
+ssh-keygen -f /home/$USER/.ssh/xd_NAZWA_UZYTKOWNIKA_TWOJA -C $USER -N ''
+chmod 700 xd_NAZWA_UZYTKOWNIKA_TWOJA
 ```
 
 Sprawdź, czy klucz został stworzony. 
