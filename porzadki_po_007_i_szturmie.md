@@ -64,10 +64,6 @@ Jak nic nie widzisz tutaj (poza ubuntu jak jestes na AWS) - to idz do kroku 4. J
 deluser NAZWA_FOLDERU
 rm -r /home/NAZWA_FOLDERU
 ```
-ewentualnie można dodać:
-```
-sudo delgroup NAZWA_FOLDERU
-```
 i komenda sprawdzajaca czy ubylo o 1 folder:
 ```
 ls /home
