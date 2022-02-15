@@ -116,7 +116,7 @@ sudo cp -r /home/ubuntu/piaskownica /home/$USER/piaskownica
 ```
 Jest też szansa, że zrobiłeś ją we fladze. Wtedy bierzemy ją z backupu:
 ```
-sudo cp -r /home/$USER/flaga/piaskownica /home/$USER/piaskownica
+sudo cp -r /home/$USER/backup/flaga/piaskownica /home/$USER/piaskownica
 ```
 Ostatnia opcja, to że masz więcej niż 1 piaskownicę... wtedy, skądkolwiek ją kopiujesz, użyj piaskownica_2, piaskownica_3 etc. Np.
 ```
