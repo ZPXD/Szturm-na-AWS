@@ -153,10 +153,10 @@ A co z VSC i Jupyterem? To w kolejnej części :)
 - Połączenie z serwerem
 - Plik config/Config
 - VSC mobilność:
----- Wchodzenie na pliki, foldery.
----- Praca na 2 plikach w różnych folderach.
----- Połączenie jescze raz.
----- Wyjście
+1. Wchodzenie na pliki, foldery.
+2. Praca na 2 plikach w różnych folderach.
+3. Połączenie jescze raz.
+4. Wyjście
 
 #### VSC Jupyter
 - instalacja NA SERWERZE
@@ -167,14 +167,14 @@ A co z VSC i Jupyterem? To w kolejnej części :)
 - my_notebooks i tworzenie nowego pliku notebook 
 
 #### VSC Git, Github, Git
----- instalacja
----- połączenie się z githubem
----- git clone 3 razy
----- edycja pliku, dodanie go, commit, PR
----- wlasny projekt
----- - stworz repo
----- - dodaj 1 plik i push
----- - dodaj 2 plik i push
----- - usun 1 plik i push
----- - zmien 2 plik i push
+- instalacja
+- połączenie się z githubem
+- git clone 3 razy
+- edycja pliku, dodanie go, commit, PR
+- wlasny projekt
+- stworz repo
+- dodaj 1 plik i push
+- dodaj 2 plik i push
+- usun 1 plik i push
+- zmien 2 plik i push
 
