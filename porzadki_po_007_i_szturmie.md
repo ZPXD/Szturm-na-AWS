@@ -87,7 +87,7 @@ Zobacz etap 5 na https://github.com/ZPXD/flaga
 #### 5. Szczerze? Etap 7 i 8 też przejdź jeszcze raz.
 
 Z poziomu Twojego użytkownika. Trochę go poprawiłem. Dałem opcję turbo. 
-Z nią zabierze Ci to razem 2 minuty.
+Z nią zabierze Ci to razem kilka minut.
 
 To teraz jest jeszcze fajnejsze, a wartość z powtórki jest ogromna.
 
@@ -101,7 +101,7 @@ sudo rm -r flaga
 ```
 I zacznij od nowa! https://github.com/ZPXD/flaga
 
-Zobacz tryb turbo: www w 2min.
+Zobacz tryb turbo: www kilka min.
 
 
 #### 6. Zostaje piaskownica. 
