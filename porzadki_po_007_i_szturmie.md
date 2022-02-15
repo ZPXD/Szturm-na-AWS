@@ -88,11 +88,12 @@ i powtarzaj 4 komendy dla każdego folderu (użytkownika) aż komenda ls /home d
 #### 4. Użytkownicy i łączenie się
 
 Teraz przejdź jeszcze raz etap 5, bo tu dałem trochę nowych rzeczy. 
-Zobacz etap 5 na https://github.com/ZPXD/flaga
+Zrób etap 5 na https://github.com/ZPXD/flaga
 - utworzysz użytkownika
 - utworzysz klucz RSA
 - liźniesz trochę Linuxa
 - no i będziesz się łączyć z serwerem pisząc jedynie: "ssh moj_serwerek" z dowolnego folderu.
+
 
 #### 5. Szczerze? Etap 7 i 8 też przejdź jeszcze raz.
 
@@ -109,7 +110,7 @@ sudo cp -r flaga /home/$USER/backup/
 sudo chown -R $USER:$USER /home/$USER/backup/flaga
 sudo rm -r flaga
 ```
-I zacznij od nowa! https://github.com/ZPXD/flaga
+Od nowa od etapu 7 https://github.com/ZPXD/flaga
 
 Zobacz tryb turbo: www kilka min.
 
