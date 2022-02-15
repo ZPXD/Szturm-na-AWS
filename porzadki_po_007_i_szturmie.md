@@ -1,38 +1,67 @@
 ## Porządek po zajęciach #007 :)
 
 #### 1. Sprzatamy w domowym lapie.
-- Zakładki xD i foldery xD
-- folder na windowsie:
----- usun wszystkie stare klucze (poza poza 1 .pem jezeli jestes na AWS)
----- usun inne pierdoly tutaj poza notatkami chyba ze masz cos waznego.
-- w Config - usuń stare bloki z Twoim IP
 
-#### 2. Sprzątamy na serwerze i root.
-- logujemy sie na ubuntu(AWS)/root(Home)
-- kto nie ma root to robi: sudo passwd / su -
-- kazdy jest na root albo nie idzie dalej.
+
+### Porządek u siebie na kompie:
+
+#### folder xD w przeglądarce.
+1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
+2. Wyciągnij ten folder gdzieś na wierzch
+3. Dodaj do niego potrzebne linki: github swój, ZPXD, może gmail.
+4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
+
+#### Jak się włacza terminal/powershell?
+Windows: kliknij ścieżkę w folderze xD
+Linux: shift+ctrl+x
+
+#### folder xD na kompie
+1. Kto nie ma to tworzymy katalog na zajęcia. Katalog xD. Na wierzchu gdzieś. I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
+2. Wejdź do folderu xD i
+- usun wszystkie stare klucze (poza poza 1 .pem jezeli jestes na AWS)
+- usun inne pierdoly tutaj poza notatkami chyba ze masz cos waznego.
+- gdzieś, w folderze Twojego użytkownika jest folder .ssh masz plik config lub Config - usuń stare bloki (każde bloki po kilka linii zaczynających się od 'Host') z które są Twoim IP z zajęć xD. Albo lepiej, skopiuj je narazie do notatek. Jak skończysz ten skrypt, to będziesz mógł usunąć.
+
+#### 2. Sprzątamy na serwerze i ustawiamy root.
+1. logujemy sie na ubuntu(AWS)/root(Home) jak zawsze.
+2. piszemy:
+```
+echo $USER
+```
+komu nie pisze root to się loguje na roota. A kto nie zrobił root'a to robi teraz (reszta idzie dalej): 
+```
+sudo passwd
+su -
+```
+
+Tutaj teraz kazdy jest na root albo nie idzie dalej.
 
 #### 3. Starzy użytkownicy:
-- najlatwiej bedzie wejsc do home i wylistowac: 
+- najlatwiej bedzie wejsc do home i wylistowac:
+```
 cd /home 
 ls
+```
 Jak nic nie widzisz tutaj (poza ubuntu jak jestes na AWS) - to idz do kroku 4. Jak widzisz, to dla kazdeg folderu tutaj (nazwa tych folderow jest rowna nazwom uzytkownikow - to sa foldery domowe) poza ubuntu jak jestes na AWS wykonujemy:
-
+```
 deluser NAZWA_FOLDERU
 rm -r /home/NAZWA_FOLDERU
-
+```
 ewentualnie można dodać:
-delgroup NAZWA_FOLDERU
-
+```
+sudo delgroup NAZWA_FOLDERU
+```
 i komenda sprawdzajaca czy ubylo o 1 folder:
+```
 ls /home
-
-i powtarzaj 4 komendy dla każdego folderu (użytkownika) aż komenda ls /home da pusty wynik albo zostanie sam ubuntu.
+```
+i powtarzaj 4 komendy dla każdego folderu (użytkownika) aż komenda ls /home da pusty wynik albo zostanie sam ubuntu jeżeli jesteś na AWS.
 
 
 #### 4. Użytkownicy i łączenie się
 
-Teraz przejdź jeszcze raz etap 5, bo tu dałem trochę nowych rzeczy. Zobacz na https://github.com/ZPXD/flaga
+Teraz przejdź jeszcze raz etap 5, bo tu dałem trochę nowych rzeczy. 
+Zobacz etap 5 na https://github.com/ZPXD/flaga
 - utworzysz użytkownika
 - utworzysz klucz RSA
 - liźniesz trochę Linuxa
@@ -89,7 +118,7 @@ Powinieneś zobaczyć ja u siebie w katalogu domowym. Jak jest, to nadaj właśc
 ls -la /home/$USER
 sudo chown $USER:$USER /home/$USER/piaskownica
 ```
-Gotowet. 
+Gotowe. 
 
 Od teraz wszystkie uprawnienia są zrobione i czuj się jak u siebie w domu.
 
