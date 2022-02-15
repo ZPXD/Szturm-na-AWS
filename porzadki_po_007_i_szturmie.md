@@ -29,6 +29,7 @@ Do rzeczy. Tutaj, w jakieś 30-60 minut zrobicie:
 
 #### Jak się włacza terminal/powershell?
 Windows: kliknij ścieżkę w folderze xD
+
 Linux: shift+ctrl+x
 
 #### folder xD na kompie
