@@ -28,7 +28,7 @@ Do rzeczy. Tutaj, w jakieś 30-60 minut zrobicie:
 4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
 
 #### Jak się włacza terminal/powershell?
-Windows: kliknij ścieżkę w folderze xD
+Windows: otwórz folder w którym chcesz otworzyć terminal i kliknij w adres i napisz tam powershell - otworzy się.
 
 Linux: shift+ctrl+x
 
