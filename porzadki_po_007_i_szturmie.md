@@ -92,7 +92,7 @@ Co zrobić ze starą flaga? Przenieśmy ją do "backupu". Jak masz tu coś cenne
 mkdir /home/$USER/backup/
 cd /var/www
 sudo cp -r flaga /home/$USER/backup/
-sudo chown $USER:$USER /home/$USER/backup/
+sudo chown -R $USER:$USER /home/$USER/backup/flaga
 sudo rm -r flaga
 ```
 I zacznij od nowa! https://github.com/ZPXD/flaga
