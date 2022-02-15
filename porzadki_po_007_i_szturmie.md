@@ -145,3 +145,36 @@ ssh moj_serwerek
 ```
 
 A co z VSC i Jupyterem? To w kolejnej części :)
+
+## Część 2 - w krótce:
+
+#### VSC install
+- VSC: Open-SSH
+- Połączenie z serwerem
+- Plik config/Config
+- VSC mobilność:
+---- Wchodzenie na pliki, foldery.
+---- Praca na 2 plikach w różnych folderach.
+---- Połączenie jescze raz.
+---- Wyjście
+
+#### VSC Jupyter
+- instalacja NA SERWERZE
+- Połączenie z serwer
+- git clone zajecia_xd
+- otworzenie pliku notebook
+- komorka, odpalenie, edycja, odpalenie, zapis
+- my_notebooks i tworzenie nowego pliku notebook 
+
+#### VSC Git, Github, Git
+---- instalacja
+---- połączenie się z githubem
+---- git clone 3 razy
+---- edycja pliku, dodanie go, commit, PR
+---- wlasny projekt
+---- - stworz repo
+---- - dodaj 1 plik i push
+---- - dodaj 2 plik i push
+---- - usun 1 plik i push
+---- - zmien 2 plik i push
+
