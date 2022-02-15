@@ -1,9 +1,25 @@
-## Porządek po zajęciach #007 :)
+## Porządek po zajęciach #007 i Szturmie :)
 
+Doszło trochę nowych rzeczy, od teraz stały się częścią szturmu. 
+
+Tutaj robimy porządek po zajęciach #007 i Szturmie (bo są użytkownicy już ustawieni więc z nich korzystamy )
+
+Takich dodatków do szturmu już raczej nie będzie poza 1: Dojdzie jeszcze jedna część gdzie będzie zakładać się: **VSC & Jupyter & Open-SSH & Git** - one też będą częścią szturmu. 
+
+Co do tego pliku - w ciągu 7 dni go usunę. Bo to co w nim najważniejsze dla nowych - jest już jako część szturmu - a dla was jak nie zdążycie, to restart i postawienie flagi na nowo z nowymi instrukcjami to będzie betka.
+
+Do rzeczy. Tutaj, w jakieś 30-60 minut zrobicie:
+
+1. Porządek u siebie na kompie:
+2. Ustawicie sobie na serwrze Root
+3. Posprzątamy po zajęciach 007
+4. Robimy userów, klucz i łączymy się krótkim "ssh moj_serwerek".
+5. Przerzucamy starą flagę do backupu i robimy nową flagę w 2 minuty w trybie trubo
+6. Sprzątamy piaskownicę i flagę.
+
+ 
 #### 1. Sprzatamy w domowym lapie.
 
-
-### Porządek u siebie na kompie:
 
 #### folder xD w przeglądarce.
 1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
