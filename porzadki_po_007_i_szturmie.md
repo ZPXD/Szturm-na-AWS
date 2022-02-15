@@ -39,7 +39,7 @@ Powershell/terminal: Windows: kliknij ścieżkę w folderze xD
 2. Wejdź do folderu xD i
 - usun wszystkie stare klucze (poza poza 1 .pem jezeli jestes na AWS)
 - usun inne pierdoly tutaj poza notatkami chyba ze masz cos waznego.
-- gdzieś, w folderze Twojego użytkownika jest folder .ssh masz plik config lub Config - usuń stare bloki (każde bloki po kilka linii zaczynających się od 'Host') z które są Twoim IP z zajęć xD. Albo lepiej, skopiuj je narazie do notatek. Jak skończysz ten skrypt, to będziesz mógł usunąć.
+- gdzieś, w folderze Twojego użytkownika jest folder .ssh masz plik config lub Config. Otwórz go i usuń stare bloki tekstu  z które są Twoim IP z zajęć xD (każde bloki po kilka linii zaczynających się od 'Host'). Albo lepiej, skopiuj je narazie do notatek. Jak skończysz ten skrypt, to będziesz mógł usunąć.
 
 #### 2. Sprzątamy na serwerze i ustawiamy root.
 1. logujemy sie na ubuntu(AWS)/root(Home) jak zawsze.
