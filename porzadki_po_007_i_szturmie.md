@@ -129,7 +129,7 @@ W późniejszych krokach wpisuj też dla każdej z piaskownic osobn komende chow
 Powinieneś zobaczyć ja u siebie w katalogu domowym. Jak jest, to nadaj właściwe uprawnienia i zrobione.
 ```
 ls -la /home/$USER
-sudo chown $USER:$USER /home/$USER/piaskownica
+sudo chown -R $USER:$USER /home/$USER/piaskownica
 ```
 Gotowe. 
 
