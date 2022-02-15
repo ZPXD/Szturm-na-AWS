@@ -43,6 +43,18 @@ Powershell/terminal: Windows: kliknij ścieżkę w folderze xD
 
 #### 2. Sprzątamy na serwerze i ustawiamy root.
 1. logujemy sie na ubuntu(AWS)/root(Home) jak zawsze.
+
+
+#### A. Home:
+```
+ssh root@1.1.1.1
+```
+#### B. AWS: 
+Będąc w folderze xD, gdzie masz klucz .pem wpisz:
+```
+ssh -i nazwaklucza.pem ubuntu@1.1.1.1 
+```
+
 2. piszemy:
 ```
 echo $USER
@@ -61,7 +73,7 @@ Tutaj teraz kazdy jest na root albo nie idzie dalej.
 cd /home 
 ls
 ```
-Jak nic nie widzisz tutaj (poza ubuntu jak jestes na AWS) - to idz do kroku 4. Jak widzisz, to dla kazdeg folderu tutaj (nazwa tych folderow jest rowna nazwom uzytkownikow - to sa foldery domowe) poza ubuntu jak jestes na AWS wykonujemy:
+Jeśli po wpisaniu komendy ls jest pusto (albo ubuntu), przejdź dalej. W przeciwnym razie dla każdej nazwy (będącej jednoczęśnie nazwą Twojego użytkownika jak i folderu domowego) usuń użytkownika i folder o takiej nazwie, wpisując:
 ```
 deluser NAZWA_FOLDERU
 rm -r /home/NAZWA_FOLDERU
