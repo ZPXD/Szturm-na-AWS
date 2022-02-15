@@ -1,31 +1,6 @@
 
-# PORZĄDKI
 
-## PLAN:
-
-Planujemy tak aby działało na Ubuntu AWS/Home/Innych serverach z ~gołym Ubuntu też. Sprawdzamy.
-
-Nie róbcie tego raczej sami, będziemy to ustawiać w poniedziałek o 19:00 14stego :)
-
-### Porządek u siebie na kompie:
-
-#### PORZĄDKI U SIEBIE: Jak się włacza terminal/powershell?
-Windows: kliknij ścieżkę w folderze xD
-Linux: shift+ctrl+x
-Mac: ?
-
-#### PORZĄDEK U SIEBIE: folder xD w przeglądarce.
-1. Jak nie masz, to stwórz w swojej przeglądarce folder xD
-2. Wyciągnij ten folder gdzieś na wierzch
-3. Dodaj do niego potrzebne linki: github swój, ZPXD, może gmail.
-4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
-
-#### PORZĄDEK U SIEBIE: foler xD na kompie
-1. Katalog xD tworzymy kto nie zrobił. Na wierzchu gdzieś.  I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
-2. Wejdź do folderu xD
-3. Powershell/terminal:
-Windows: kliknij ścieżkę w folderze xD
-Linux: shift+ctrl+x
+#### PORZĄDEK U SIEBIE
 
 6. pwd
 ```
