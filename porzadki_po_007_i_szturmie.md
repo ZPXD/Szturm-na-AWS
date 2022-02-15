@@ -28,9 +28,11 @@ Do rzeczy. Tutaj, w jakieś 30-60 minut zrobicie:
 4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
 
 #### Jak się włacza terminal/powershell?
-Windows: otwórz folder w którym chcesz otworzyć terminal i kliknij w adres i napisz tam powershell - otworzy się.
-
 Linux: shift+ctrl+x
+Windows: otwórz folder w którym chcesz otworzyć terminal i kliknij w adres i napisz tam powershell - otworzy się.
+Powershell/terminal: Windows: kliknij ścieżkę w folderze xD
+![alt text](https://i.imgur.com/6mxKsAY.gif "Powershell gif")
+
 
 #### folder xD na kompie
 1. Kto nie ma to tworzymy katalog na zajęcia. Katalog xD. Na wierzchu gdzieś. I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
