@@ -43,7 +43,7 @@ Jak sprawdzić czy folder istnieje?
 ls SCIEZKA_FOLDERU
 ```
 Jak zwraca błąd, to nie istnieje albo nie macie uprawnień :D
-```
+
 
 
 #### Opcja A: /root/piaskownica # Home
