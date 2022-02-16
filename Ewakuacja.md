@@ -19,7 +19,7 @@ $MOJA_DOMENA=tu_wpisz_swoja_domene
 Skopiuj pliki z flagi do backupu:
 ```
 cp -r /var/www/flaga /root/backup
-``
+```
 
 
 FLAGA:
