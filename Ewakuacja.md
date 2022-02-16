@@ -127,6 +127,6 @@ Zostaw pusty i zapisz.
 
 Z roota (su -)
 ```
-chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /root/backup
 cp -r /root/backup /home/$TWOJ_UZYTKOWNIK/
+chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /root/backup
 ```
