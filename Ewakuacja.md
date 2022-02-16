@@ -103,7 +103,7 @@ Ten plik jest w katalogu głównym użytkownika na Twoim komputerze. Otwórz go 
 #### Windows:
 
 Ręcznie - wyklikajcie i otwórzcie. 
-- Jeżeli go nie ma, to stwórz go. 
+- Jeżeli go nie ma, to stwórz go. **ALE BEZ ROZSZEŻENIA A NIE .TXT ("Config" a nie "Config.txt") :)**
 - Zrób kopie.
 - Zostaw pusty.
 - Zapisz.
