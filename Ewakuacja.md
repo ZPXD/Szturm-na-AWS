@@ -37,10 +37,33 @@ FLAGA:
 - /etc/nginx/sites-enabled/$MOJA_DOMENA
 
 PIASKOWNICA:
-- /root/piaskownica # Home
-- /home/ubuntu/piaskownica # AWS
-- /var/www/flaga/piaskownica # WTF
 
+Jak sprawdzić czy folder istnieje?
+```
+ls SCIEZKA_FOLDERU
+```
+Jak zwraca błąd, to nie istnieje albo nie macie uprawnień :D
+```
+
+
+#### Opcja A: /root/piaskownica # Home
+```
+cp -r /root/piaskownica /root/backup
+rm -r /root/piaskownica
+```
+
+#### Opcja B: /home/ubuntu/piaskownica # AWS
+```
+cp -r /home/ubuntu/piaskownica /root/backup
+rm -r /home/ubuntu/piaskownica
+```
+#### Opcja C: /var/www/flaga/piaskownica # WTF
+
+Nic nie rób :) 
+
+#### Opcja D: Nie mam piaskownicy :)
+
+To założysz w 9 zajęciach :)
 
 INNE RZECZY:
 - /root/piaskownica # Home
