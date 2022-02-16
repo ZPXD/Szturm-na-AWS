@@ -80,22 +80,27 @@ print('jupyter dziala')
 ```
 10. Utwórz nowy plik (ctrl+n, ctrl+s, zapisz jako xd.ipynb, wyjdz i wejdz i zobacz czy możesz dodać komórki, kod, zapisać)
 11. Jak działa to super, jak nie to leć na pomoc.
+
+
+
+
+
+
+
+
+
+
+
 ![015.png](foto/015.png)
 ![017.png](foto/017.png)
-![Zrzut ekranu z 2022-02-16 17-16-19.png](foto/Zrzut ekranu z 2022-02-16 17-16-19.png)
 ![o01.png](foto/o01.png)
 ![023.png](foto/023.png)
 ![open_folder2.png](foto/open_folder2.png)
 ![python_na_serwerze.png](foto/python_na_serwerze.png)
-![Zrzut ekranu z 2022-02-16 17-30-30.png](foto/Zrzut ekranu z 2022-02-16 17-30-30.png)
-![Szturm-na-AWS](foto/Szturm-na-AWS)
-![Zrzut ekranu z 2022-02-16 17-14-51.png](foto/Zrzut ekranu z 2022-02-16 17-14-51.png)
 ![008.png](foto/008.png)
 ![git_clone_2.png](foto/git_clone_2.png)
-![Zrzut ekranu z 2022-02-16 17-16-28.png](foto/Zrzut ekranu z 2022-02-16 17-16-28.png)
 ![003.png](foto/003.png)
 ![029.png](foto/029.png)
-![Zrzut ekranu z 2022-02-16 17-02-07.png](foto/Zrzut ekranu z 2022-02-16 17-02-07.png)
 ![019.png](foto/019.png)
 ![005.png](foto/005.png)
 ![025.png](foto/025.png)
@@ -103,10 +108,8 @@ print('jupyter dziala')
 ![009.png](foto/009.png)
 ![031.png](foto/031.png)
 ![028.png](foto/028.png)
-![Zrzut ekranu z 2022-02-16 17-19-42.png](foto/Zrzut ekranu z 2022-02-16 17-19-42.png)
 ![ctrl_new.png](foto/ctrl_new.png)
 ![024.png](foto/024.png)
-![Zrzut ekranu z 2022-02-16 17-58-22.png](foto/Zrzut ekranu z 2022-02-16 17-58-22.png)
 ![026.png](foto/026.png)
 ![016.png](foto/016.png)
 ![open_folder.png](foto/open_folder.png)
@@ -116,18 +119,13 @@ print('jupyter dziala')
 ![027.png](foto/027.png)
 ![022.png](foto/022.png)
 ![terminal1.png](foto/terminal1.png)
-![Zrzut ekranu z 2022-02-16 18-00-53.png](foto/Zrzut ekranu z 2022-02-16 18-00-53.png)
 ![021.png](foto/021.png)
 ![018.png](foto/018.png)
 ![013.png](foto/013.png)
-![Zrzut ekranu z 2022-02-16 17-33-23.png](foto/Zrzut ekranu z 2022-02-16 17-33-23.png)
-![Zrzut ekranu z 2022-02-16 16-49-53.png](foto/Zrzut ekranu z 2022-02-16 16-49-53.png)
 ![030.png](foto/030.png)
 ![git_clone1.png](foto/git_clone1.png)
 ![007.png](foto/007.png)
 ![006.png](foto/006.png)
-![Zrzut ekranu z 2022-02-16 17-40-31.png](foto/Zrzut ekranu z 2022-02-16 17-40-31.png)
-
 
 
 
