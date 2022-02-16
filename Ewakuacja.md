@@ -48,13 +48,13 @@ Jak zwraca błąd, to nie istnieje albo nie macie uprawnień :D
 
 #### Opcja A: /root/piaskownica # Home
 ```
-cp -r /root/piaskownica /root/backup
+cp -r /root/piaskownica
 rm -r /root/piaskownica
 ```
 
 #### Opcja B: /home/ubuntu/piaskownica # AWS
 ```
-cp -r /home/ubuntu/piaskownica /root/backup
+cp -r /home/ubuntu/piaskownica
 rm -r /home/ubuntu/piaskownica
 ```
 #### Opcja C: /var/www/flaga/piaskownica # WTF
