@@ -65,7 +65,23 @@ Nic nie rób :)
 
 To założysz w 9 zajęciach :)
 
-INNE RZECZY:
+
+### Ewakuacja innych rzeczy.
 - /root/piaskownica # Home
 - /home/ubuntu/* # AWS
 
+#### Opcja A: inne rzeczy w /root # Home
+
+```
+cp -r /root/* /root/backup/
+```
+
+#### Opcja B: inne rzeczy w /home/ubuntu # AWS
+
+```
+cp -r /home/ubuntu/* /root/backup/
+rm -r /home/ubuntu
+```
+#### Opcja C: nie mam innych rzeczy
+
+Nic nie rób :) 
