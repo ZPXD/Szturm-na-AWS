@@ -125,5 +125,7 @@ Zostaw pusty i zapisz.
 
 ### X
 
-
-
+```
+chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /root/backup
+cp -r /root/backup /home/$TWOJ_UZYTKOWNIK/
+```
