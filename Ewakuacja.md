@@ -23,6 +23,13 @@ cp /etc/systemd/system/flaga.service /root/backup/flaga
 cp /etc/nginx/sites-available/$MOJA_DOMENA /root/backup/flaga
 ```
 
+```
+rm -r /var/www/flaga
+rm /etc/systemd/system/flaga.service
+rm /etc/nginx/sites-available/$MOJA_DOMENA
+rm /etc/nginx/sites-enabled/$MOJA_DOMENA
+```
+
 FLAGA:
 - /var/www/flaga
 - /etc/systemd/system/flaga.service
