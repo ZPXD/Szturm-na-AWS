@@ -85,3 +85,13 @@ rm -r /home/ubuntu
 #### Opcja C: nie mam innych rzeczy
 
 Nic nie rób :) 
+
+
+
+### Usuwanie użytkownika:
+
+Kto chce może usunąć użytkownika wraz z jego katalogiem domowym.
+```
+deluser NAZWA_UZYTKOWNIKA
+rm -r /home/NAZWA_UZYTKOWNIKA
+```
