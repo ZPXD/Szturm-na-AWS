@@ -126,7 +126,12 @@ Zostaw pusty i zapisz.
 ### X
 
 Z roota (su -)
+
+```
+TWOJ_UZYTKOWNIK=tu_wpisz_swoj_nowy_login
+```
+
 ```
 cp -r /root/backup /home/$TWOJ_UZYTKOWNIK/
-chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /root/backup
+chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /home/$TWOJ_UZYTKOWNIK/backup
 ```
