@@ -12,7 +12,7 @@ cd /root/backup
 ```
 3. Utwórz zmienną ze swoją domeną.
 ```
-$MOJA_DOMENA=tu_wpisz_swoja_domene
+MOJA_DOMENA=tu_wpisz_swoja_domene
 ```
 4.
 
