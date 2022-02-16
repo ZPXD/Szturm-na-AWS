@@ -80,7 +80,7 @@ print('jupyter dziala')
 ```
 10. Utwórz nowy plik (ctrl+n, ctrl+s, zapisz jako xd.ipynb, wyjdz i wejdz i zobacz czy możesz dodać komórki, kod, zapisać)
 11. Jak działa to super, jak nie to leć na pomoc.
-![015.png](015.png)
+![015.png](foto/015.png)
 ![017.png](017.png)
 ![Zrzut ekranu z 2022-02-16 17-16-19.png](Zrzut ekranu z 2022-02-16 17-16-19.png)
 ![o01.png](o01.png)
