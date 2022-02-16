@@ -20,8 +20,8 @@ Skopiuj pliki z flagi do backupu:
 ```
 cp -r /var/www/flaga /root/backup
 cp /etc/systemd/system/flaga.service /root/backup/flaga
+cp /etc/nginx/sites-available/$MOJA_DOMENA /root/backup/flaga
 ```
-
 
 FLAGA:
 - /var/www/flaga
