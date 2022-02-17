@@ -25,12 +25,12 @@ Zrób flagę :)
 ## Co dalej?
 
 Będzie jeszcze tutorial do VSC po tym wszystkim :) Narazie prosty jest tutaj:
-1. https://github.com/ZPXD/Szturm-na-AWS/blob/main/deszcz_meteorytow_2_VSC_Jupyter_GIt.md
+https://github.com/ZPXD/Szturm-na-AWS/blob/main/deszcz_meteorytow_2_VSC_Jupyter_GIt.md
 
 
 ## Jak kompletnie nie wiesz co robić, w którym momencie jesteś, to zobacz tutaj:
 
-1. Tu po 2 będzie info https://github.com/ZPXD/Szturm-na-AWS/blob/main/POGUBILEM_SIE_CO_TERAZ.md
+https://github.com/ZPXD/Szturm-na-AWS/blob/main/POGUBILEM_SIE_CO_TERAZ.md
 
 Ale raczej potrzebujesz po prostu zrobić ewakuację i flagę :)
 
