@@ -6,6 +6,19 @@
 2. Zainstaluj.
 3. Utwórz gdzieś skrót.
 
+
+
+
+![o01.png](foto/o01.png)
+![002.png](foto/002.png)
+![003.png](foto/003.png)
+![005.png](foto/005.png)
+![006.png](foto/006.png)
+![007.png](foto/007.png)
+![008.png](foto/008.png)
+![009.png](foto/009.png)
+
+
 ##### VSC: Połączenie z serwerem
 
 1. Włącz
@@ -29,6 +42,13 @@ I jesteś.
 
 Połącz się i rozłącz kilka razy.
 
+![python_na_serwerze.png](foto/python_na_serwerze.png)
+![kliknij.png](foto/kliknij.png)
+![ctrl_new.png](foto/ctrl_new.png)
+
+![terminal1.png](foto/terminal1.png)
+![open_folder.png](foto/open_folder.png)
+![open_folder2.png](foto/open_folder2.png)
 ##### Mobilność
 
 1. Otwórz Pierwszy plik.
@@ -59,6 +79,9 @@ git clone https://github.com/ZPXD/zajecia_programowania_xd
 4. Spyta się Ciebie w jakim folderze - podaj katalog domowy
 5. Spyta się Cibie czy otworzyć ten folder - powiedz, że tak
 
+![git_clone1.png](foto/git_clone1.png)
+![git_clone_2.png](foto/git_clone_2.png)
+
 ##### VSC: Jupyter
 
 1. Wejdź na Extensions (listwa z lewej, u mnie 5 ikona)
@@ -76,6 +99,19 @@ print('jupyter dziala')
 11. Jak działa to super, jak nie to leć na pomoc.
 
 
+![021.png](foto/021.png)
+![022.png](foto/022.png)
+
+![023.png](foto/023.png)
+![024.png](foto/024.png)
+![025.png](foto/025.png)
+![026.png](foto/026.png)
+![027.png](foto/027.png)
+![028.png](foto/028.png)
+![029.png](foto/029.png)
+![030.png](foto/030.png)
+![031.png](foto/031.png)
+![016.png](foto/016.png)
 
 
 
