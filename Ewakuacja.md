@@ -195,6 +195,8 @@ Config jest w .ssh które jest zwykle gdzieś tutaj:
 
 #### Gotowe!
 
+# Co dalej?
+
 Teraz została jeszcze jedna rzecz:
 
 Poniżej jest segment "Przywrócenie" :) wróć do niego jeszcze jak stworzysz już użytkownika. W tym kroku podrzucisz swojemu nowemu użytkownikowi folder backup i dasz do niego dostęp.
