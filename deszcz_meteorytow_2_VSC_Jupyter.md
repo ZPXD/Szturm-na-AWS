@@ -1,10 +1,4 @@
-
-
-
-
-
-
-#### VSC
+## VSC & Jupyter
 
 ##### VSC: Instalacja
 
