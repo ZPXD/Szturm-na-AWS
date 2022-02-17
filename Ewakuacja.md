@@ -90,10 +90,10 @@ Nic nie rób :)
 
 ### Usuwanie użytkownika:
 
-Kto chce może usunąć użytkownika wraz z jego katalogiem domowym.
+Kto chce może usunąć użytkownika wraz z jego katalogiem domowym. Wtedy oczywiście tracisz wszystko co masz w użytkowniku którego skasujesz a nie dodałeś do backupu.
+
 ```
-deluser NAZWA_UZYTKOWNIKA
-rm -r /home/NAZWA_UZYTKOWNIKA
+deluser --remove-home NAZWA_UZYTKOWNIKA
 ```
 
 #### Na komputerze u siebie - plik ~/.ssh/config lub ~/.ssh/Config
