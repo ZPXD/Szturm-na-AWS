@@ -5,16 +5,46 @@ CO MAMY:
 su root
 cd /root
 ```
+Jeżeli jeszcze nie tworzyłeś sobie dostępu do **root** to:
+```
+sudo passwd
+su -
+cd /root
+```
+
+Voilà.
+
+
 2. Stwórz backup i wejdź tam:
 ```
 mkdir backup
 cd /root/backup
 ```
+
+#### Tak ogólnie, co mamy do ewakuacji?
+
+
 3. Utwórz zmienną ze swoją domeną.
 ```
 MOJA_DOMENA=tu_wpisz_swoja_domene
 ```
-4.
+
+FLAGA:
+- /var/www/flaga
+- /etc/systemd/system/flaga.service
+- /etc/nginx/sites-available/$MOJA_DOMENA
+- /etc/nginx/sites-enabled/$MOJA_DOMENA
+
+PIASKOWNICA:
+- /root/piaskownica # Home
+- /home/ubuntu/piaskownica # AWS
+- /var/www/flaga/piaskownica # WTF
+
+INNE RZECZY:
+- /root/* # Home
+- /home/ubuntu/* # AWS
+
+4. Ewakuacja.
 
 Skopiuj pliki z flagi do backupu:
 ```
@@ -119,19 +149,41 @@ Jeżeli go nie ma, to stwórz go.
 ```
 nano /home/$USER/.ssh/config
 ```
-
 Zostaw pusty i zapisz.
 
+#### MAC:
 
-### X
-
-Z roota (su -)
-
+Config jest w .ssh które jest zwykle gdzieś tutaj:
 ```
+/Users/$USER/.ssh/config
+```
+
+#### Gotowe!
+
+Teraz została jeszcze jedna rzecz:
+
+Poniżej jest segment "Przywrócenie" :) wróć do niego jeszcze jak stworzysz już użytkownika. W tym kroku podrzucisz swojemu nowemu użytkownikowi folder backup i dasz do niego dostęp.
+
+Najpierw leć do: https://github.com/ZPXD/flaga/blob/main/README.md
+
+Wróć jak zrobisz użytkownika :)
+
+### Przywrócenie
+
+Masz już użytkownika? :) Zaloguj się na **root** i przypisz do zmiennej nazwę Twojego użytkownika.
+```
+su
 TWOJ_UZYTKOWNIK=tu_wpisz_swoj_nowy_login
 ```
-
+I skopiuj backup do Twojego nowego folderu domowego. Daj sobie też dostęp.
 ```
 cp -r /root/backup /home/$TWOJ_UZYTKOWNIK/
 chown -R $TWOJ_UZYTKOWNI:$TWOJ_UZYTKOWNIK /home/$TWOJ_UZYTKOWNIK/backup
 ```
+
+Wszystko gotowe :) masz u siebie w katalogu domowym backup :)
+
+Jak flaga już stoi to tyle. możesz zacząć się bawić kodem, flagą :) zobacz też klocki
+
+
+
