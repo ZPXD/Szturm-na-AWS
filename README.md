@@ -3,7 +3,7 @@
 To repozytorium narazie jest na brudno. Będę dawał znać.
 
 
-#### A. Przeszedłeś już deszcz meteorytów?
+#### A. Przeszedłeś już szturm i deszcz meteorytów?
 
 Gratulacje, idź komuś pomóc ; )
 
