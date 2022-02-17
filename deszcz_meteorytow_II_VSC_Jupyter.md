@@ -8,10 +8,6 @@
 
 
 
-![006.png](foto/006.png)
-![007.png](foto/007.png)
-![008.png](foto/008.png)
-![009.png](foto/009.png)
 
 ##### VSC: Połączenie z serwerem
 
@@ -19,24 +15,23 @@
 
 1. Włącz
 
-
 ![o01.png](foto/o01.png)
 
-3. Extensions (5 ikonka po lewej od góry)
+2. Extensions (5 ikonka po lewej od góry)
 
 ![002.png](foto/002.png)
 
-5. W search wpisz: SSH i kliknij w najwyższą pozycję: Remote-SSH i kliknij Install.
+3. W search wpisz: SSH i kliknij w najwyższą pozycję: Remote-SSH i kliknij Install.
 
 ![003.png](foto/003.png)
 
-7. Kliknij w Remote Explorer (6 ikonka po lewej od góry)
-8. Jeżeli przechodzisz to pokolei, to powinien pojawić Ci się w SSH TARGETS conajmniej 1 punkt do połączenia, zdefiniowany w pliku config (lub Config). Możesz go edytować.
-9. Najedź na niego myszką. Po prawej stronie pokaże Ci się przycisk którym połączysz się w nowym oknie z serwerem :)
-10. W listwie na górze w nowym oknie spyta się Ciebie o haslo.
+4. Kliknij w Remote Explorer (6 ikonka po lewej od góry)
+5. Jeżeli przechodzisz to pokolei, to powinien pojawić Ci się w SSH TARGETS conajmniej 1 punkt do połączenia, zdefiniowany w pliku config (lub Config). Możesz go edytować.
+6. Najedź na niego myszką. Po prawej stronie pokaże Ci się przycisk którym połączysz się w nowym oknie z serwerem :)
+7. W listwie na górze w nowym oknie spyta się Ciebie o haslo.
 - Jeżeli to Cię nie połączy 3 razy i wybierz "more actions" 
 - Wybierz Open SSH Configuration File i sprawdź czy tutaj wszystko się zgadza albo spytaj się opomoc.
-11. Jesteś na serwerze. Hurra :) To jeszcze raz wyjdź wyłączając to okno.
+8. Jesteś na serwerze. Hurra :) To jeszcze raz wyjdź wyłączając to okno.
 
 Od teraz zawsze połączysz się z serwerem w 3 kliknięciach:
 - Włączając VSC
@@ -48,18 +43,6 @@ I jesteś.
 
 Połącz się i rozłącz kilka razy.
 
-
-
-
-
-
-![python_na_serwerze.png](foto/python_na_serwerze.png)
-![kliknij.png](foto/kliknij.png)
-![ctrl_new.png](foto/ctrl_new.png)
-
-![terminal1.png](foto/terminal1.png)
-![open_folder.png](foto/open_folder.png)
-![open_folder2.png](foto/open_folder2.png)
 ##### Mobilność
 
 1. Otwórz Pierwszy plik.
@@ -108,22 +91,6 @@ print('jupyter dziala')
 ```
 10. Utwórz nowy plik (ctrl+n, ctrl+s, zapisz jako xd.ipynb, wyjdz i wejdz i zobacz czy możesz dodać komórki, kod, zapisać)
 11. Jak działa to super, jak nie to leć na pomoc.
-
-
-![021.png](foto/021.png)
-![022.png](foto/022.png)
-
-![023.png](foto/023.png)
-![024.png](foto/024.png)
-![025.png](foto/025.png)
-![026.png](foto/026.png)
-![027.png](foto/027.png)
-![028.png](foto/028.png)
-![029.png](foto/029.png)
-![030.png](foto/030.png)
-![031.png](foto/031.png)
-![016.png](foto/016.png)
-
 
 
 
