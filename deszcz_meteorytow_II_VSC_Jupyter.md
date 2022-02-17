@@ -8,29 +8,35 @@
 
 
 
-
-![o01.png](foto/o01.png)
-![002.png](foto/002.png)
-![003.png](foto/003.png)
-![005.png](foto/005.png)
 ![006.png](foto/006.png)
 ![007.png](foto/007.png)
 ![008.png](foto/008.png)
 ![009.png](foto/009.png)
 
-
 ##### VSC: Połączenie z serwerem
 
+
+
 1. Włącz
-2. Extensions (5 ikonka po lewej od góry)
-3. W search wpisz: SSH i kliknij w najwyższą pozycję: Remote-SSH i kliknij Install.
-4. Kliknij w Remote Explorer (6 ikonka po lewej od góry)
-5. Jeżeli przechodzisz to pokolei, to powinien pojawić Ci się w SSH TARGETS conajmniej 1 punkt do połączenia, zdefiniowany w pliku config (lub Config). Możesz go edytować.
-6. Najedź na niego myszką. Po prawej stronie pokaże Ci się przycisk którym połączysz się w nowym oknie z serwerem :)
-7. W listwie na górze w nowym oknie spyta się Ciebie o haslo.
+
+
+![o01.png](foto/o01.png)
+
+3. Extensions (5 ikonka po lewej od góry)
+
+![002.png](foto/002.png)
+
+5. W search wpisz: SSH i kliknij w najwyższą pozycję: Remote-SSH i kliknij Install.
+
+![003.png](foto/003.png)
+
+7. Kliknij w Remote Explorer (6 ikonka po lewej od góry)
+8. Jeżeli przechodzisz to pokolei, to powinien pojawić Ci się w SSH TARGETS conajmniej 1 punkt do połączenia, zdefiniowany w pliku config (lub Config). Możesz go edytować.
+9. Najedź na niego myszką. Po prawej stronie pokaże Ci się przycisk którym połączysz się w nowym oknie z serwerem :)
+10. W listwie na górze w nowym oknie spyta się Ciebie o haslo.
 - Jeżeli to Cię nie połączy 3 razy i wybierz "more actions" 
 - Wybierz Open SSH Configuration File i sprawdź czy tutaj wszystko się zgadza albo spytaj się opomoc.
-8. Jesteś na serwerze. Hurra :) To jeszcze raz wyjdź wyłączając to okno.
+11. Jesteś na serwerze. Hurra :) To jeszcze raz wyjdź wyłączając to okno.
 
 Od teraz zawsze połączysz się z serwerem w 3 kliknięciach:
 - Włączając VSC
@@ -41,6 +47,11 @@ Od teraz zawsze połączysz się z serwerem w 3 kliknięciach:
 I jesteś. 
 
 Połącz się i rozłącz kilka razy.
+
+
+
+
+
 
 ![python_na_serwerze.png](foto/python_na_serwerze.png)
 ![kliknij.png](foto/kliknij.png)
