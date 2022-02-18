@@ -51,7 +51,7 @@ Po pierwsze niebawem podejmę się podziału na 3 kategorie filmów:
 - To czeka Cię deszcz meteorytów! Poprawiamy flagę :) całość jest do zrobienia w 90 min. Są instrukcje i filmy.
 1. Ewakuacja: https://github.com/ZPXD/Szturm-na-AWS/blob/main/Ewakuacja.md
 2. Flaga nowa: https://github.com/ZPXD/flaga
-3. VSC & Jupyter: https://github.com/ZPXD/Szturm-na-AWS/blob/main/deszcz_meteorytow_2_VSC_Jupyter_GIt.md
+3. VSC & Jupyter: https://github.com/ZPXD/Szturm-na-AWS/blob/main/deszcz_meteorytow_II_VSC_Jupyter.md
 
 YT powolny: https://www.youtube.com/watch?v=xPFF4nGLv8k (3h, z VSC na koncu) 
 YT szybki: https://www.youtube.com/watch?v=upcSexk1UfU (70min, bez  VSC)
