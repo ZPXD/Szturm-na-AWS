@@ -60,8 +60,15 @@ Skopiuj pliki i foldery flagi do backupu:
 cp -r /var/www/flaga /root/backup
 cp /etc/systemd/system/flaga.service /root/backup/flaga
 cp /etc/nginx/sites-available/$MOJA_DOMENA /root/backup/flaga
+
+```
+Sprawdź czy wszystko się skopiowało poprawnie (czy poniższa komenda wylistuje flagę):
+```
+ls /root/backup
 ```
 
+
+I kasujemy to co skopiowaliśmy do backupu (bezpowrotnie)
 ```
 rm -r /var/www/flaga
 rm /etc/systemd/system/flaga.service
